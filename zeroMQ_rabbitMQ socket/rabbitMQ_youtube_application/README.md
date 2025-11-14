@@ -13,6 +13,7 @@ This system enables:
 
 All communication happens through **RabbitMQ message queues**, allowing asynchronous, scalable, and concurrent interactions.
 
+![Alt text](../../images/rabbitmq_flow.jpg)
 ---
 
 ## 🧱 System Components
