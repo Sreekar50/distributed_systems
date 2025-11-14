@@ -12,6 +12,8 @@ This architecture implements a distributed messaging ecosystem where:
 
 The design emphasizes **scalability**, **concurrency**, and **robust communication** between all components.
 
+![Alt text](../../images/zeromq_flow.jpg)
+
 ---
 
 ## 🧱 System Components
