@@ -12,7 +12,7 @@ This architecture supports:
 - Automatic fault handling and task re-execution  
 - Distributed processing of large point datasets  
 
-![Alt text](../../images/mapreduce_flow.jpg)
+![Alt text](../images/mapreduce_flow.jpg)
 
 ---
 
