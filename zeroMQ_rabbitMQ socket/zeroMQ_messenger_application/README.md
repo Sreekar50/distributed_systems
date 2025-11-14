@@ -130,10 +130,4 @@ A well-balanced system ideal for distributed chat applications, collaborative en
 
 ---
 
-## 📜 License  
-Open for use, customization, and enhancement depending on your project structure.
 
----
-
-## 🤝 Contributions  
-Pull requests and improvements are always welcome!  
